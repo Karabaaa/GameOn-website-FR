@@ -90,6 +90,7 @@ function validate(event) {
 
   if (formIsValid) {
     form.submit();
+    alert("Merci ! Votre réservation a été reçue.");
   }
 }
 
